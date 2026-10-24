@@ -18,4 +18,4 @@ tags: ["entscheidungen"]
 | 23.10.2026 | TikTok-Vault mit täglichem Sync über ein privates GitHub-Repo. |
 | 24.10.2026 | Eigener TikTok-Bot. TikTok-Arbeit geht direkt an ihn. |
 | 24.10.2026 | Neue TikTok-Ideen bauen nicht auf alten Videos auf. |
-| 24.10.2026 | Dieser Gesamt-Vault entsteht. |
+| 24.10.2026 | Dieser Gesamt-Vault entsteht. „Wirlo“ heißt richtig **Wrilo**. |

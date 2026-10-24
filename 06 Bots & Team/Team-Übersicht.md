@@ -13,7 +13,7 @@ Alle Bots laufen in **OpenMausBot** auf dem Server.
 | **Chef 2** | Senior-Helfer von Chef | schwierige Aufgaben: Analyse, Fehlersuche, Bauen (Zentrale, rehsell.de, Vaults) |
 | **Email Manager** | Mails | Postfächer sortieren, Entwürfe schreiben. Gesendet wird nur mit Freigabe. |
 | **RehSell** | RehSell-Mitarbeiter | RehSell-Betrieb |
-| **Wirlo** | Wirlo-Mitarbeiter | Wirlo |
+| **Wirlo** | Wirlo-Mitarbeiter | Wrilo (der Name ist falsch geschrieben, gemeint ist Wrilo) |
 | **TikTok** | TikTok-Manager | Strategie, Ideen, Drehbücher, Analyse. Arbeitet im TikTok-Vault, Skills: Strategie, Video-Schnitt, Voice-over |
 | **Design** | Design und Bilder | Logos, Storyboards, Produktbilder |
 

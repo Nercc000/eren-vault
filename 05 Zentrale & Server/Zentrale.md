@@ -18,9 +18,9 @@ status: "live"
 | RehSell | verbunden, nur lesend |
 | TikTok | über [[Flutlicht]], stündlicher Abruf |
 | Geld | Bankabgleich 3× täglich, nur lesend ([[Konten und Geld]]) |
-| Kalender, Wirlo | nicht verbunden |
+| Kalender, Wrilo (Seite heißt „Wirlo“) | nicht verbunden |
 
 ## Regeln
-- Jeder Bot darf nur seine eigene Quelle beschreiben (Email Manager → Mail, RehSell → RehSell, Wirlo → Wirlo, TikTok → TikTok, Chef → Aufgaben/System).
+- Jeder Bot darf nur seine eigene Quelle beschreiben (Email Manager → Mail, RehSell → RehSell, Wirlo → Wrilo, TikTok → TikTok, Chef → Aufgaben/System).
 - Bot-Schnittstellen sind nur innerhalb des Servers erreichbar, nie über den Tunnel.
 - Mail-Entwürfe schreibt der Email Manager. Gesendet wird nichts ohne Freigabe.

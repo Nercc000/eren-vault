@@ -7,14 +7,17 @@ bereich: "Apps"
 
 # Apps – Überblick
 
-Belegt ist bisher nur, was im Maskottchen-Skill steht. Die Projekte liegen auf Erens Windows-PC unter `C:\Projekte\`.
+Wrilo hat eine eigene Notiz: [[Wrilo – Überblick]]. Für die anderen Apps gibt es auf dem Server keine Projektdateien. Die Projekte liegen auf Erens Windows-PC unter `C:\Projekte\`. Was unten steht, kommt aus dem Maskottchen-Skill und aus Erens Postfach (Stand 24.10.2026).
 
-| App | Was bekannt ist | Status |
+| App | Was belegt ist | Status |
 |---|---|---|
-| **Mochi** („dopamin os“) | Web-App mit Maskottchen Mochi (weiche Form, Rive). Mochi feuert an und macht nie Vorwürfe. Hat einen eigenen Vault `C:\Projekte\dopamin os\vault`. | Maskottchen fertig |
-| **NINETY** | Mobile-App (Expo/React Native) mit einem Panther als Maskottchen, mit Armen und Trikot. Sport-Bezug. | Maskottchen fertig |
-| **Wrilo** | Handschrift-App. Idee fürs Maskottchen: Tintenklecks oder Feder. | offen |
-| **Penzo** | nur der Name ist bekannt | offen |
+| **Wrilo** | Handschrift-App, wrilo.app | vor dem Store-Start |
+| **Mochi** („dopamin os“) | Web-App (React) mit dem Maskottchen Mochi, einer weichen Form in Rive. Mochi feuert an und macht nie Vorwürfe. Eigener Vault unter `C:\Projekte\dopamin os\vault`. | Maskottchen fertig (Okt. 2026), Zweck der App nicht dokumentiert |
+| **NINETY** | Mobile-App (Expo SDK 56, React Native) mit einem Panther als Maskottchen, mit Armen und Trikot. Er winkt und jubelt im Onboarding. Ordner `C:\Projekte\Ninety\ninety-app`. | Maskottchen fertig (Okt. 2026), Zweck nicht dokumentiert (Sport-Bezug) |
+| **Penzo** („Penzo AI“) | Repo `Nercc000/penzo-ai` (privat), Deploy über Vercel. GitHub-Actions-Läufe sind von Mai bis September 2026 beim Start fehlgeschlagen, Vercel-Deploys von April bis Mai ebenfalls. | Zweck unbekannt, wirkt ruhend |
+
+> [!warning] Sicherheit
+> Für Penzo gab es einen GitHub-Token („Penzo AI“, classic) mit sehr vielen Rechten, darunter admin:org und repo. Er lief im April 2026 ab. Prüf auf github.com/settings/tokens, dass er nicht mehr aktiv ist.
 
 ## Offen
-- Was die Apps genau machen, wie weit sie sind und ob es Repos gibt.
+- Was Mochi, NINETY und Penzo genau machen und wie weit sie sind.
