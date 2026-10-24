@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("projekt")
+views:
+  - type: table
+    name: Projekte
+    order:
+      - file.name
+      - status
+      - bereich
+      - stand
+  - type: table
+    name: Nach Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - bereich
