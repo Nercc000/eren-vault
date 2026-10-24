@@ -16,3 +16,7 @@ bereich: "Wirlo"
 
 ## Offen
 - Was Wirlo genau ist, wer es nutzt, wo es läuft und wo die Daten liegen.
+- Ist **Wirlo** dasselbe wie die Handschrift-App **Wrilo** aus [[Apps – Überblick]]? Die Schreibweise ist verschieden.
+
+> [!note] Quelle
+> Der Wirlo-Bot hat am 24.10.2026 bestätigt, dass er selbst keine Projektbeschreibung hat. Alles oben stammt aus der Zentrale.
