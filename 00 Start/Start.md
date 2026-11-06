@@ -22,6 +22,7 @@ tags: ["start"]
 | Geld | [[Konten und Geld]] | nur Zuordnung, keine Zahlen |
 | Entscheidungen | [[Entscheidungen]] | was wann festgelegt wurde |
 | Offen | [[Offene Punkte]] | alles, was noch fehlt |
+| Ideen | [[Ideen-Parkplatz]] | Ideen für später, z. B. fürs Spiel |
 
 ```mermaid
 graph TD
