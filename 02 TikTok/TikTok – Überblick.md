@@ -18,11 +18,11 @@ bereich: "TikTok"
 - Publikum laut Studio etwa 50/50 Männer und Frauen, Eren schätzt 55–60 % Frauen.
 - Daten kommen aus **Flutlicht** ([[Flutlicht]]).
 
-## Zahlen (Stand 2026-11-06 05:07 UTC, aus dem TikTok-Vault)
+## Zahlen (Stand 2026-11-07 05:07 UTC, aus dem TikTok-Vault)
 | Kennzahl | Wert |
 |---|---|
-| Follower | 36.762 |
-| Likes gesamt | 1.139.001 |
+| Follower | 36.755 |
+| Likes gesamt | 1.139.058 |
 | Beiträge | 79 |
 | Views aller erfassten Videos | 39,8 Mio |
 | Videos ab 1 Mio | 8 |
